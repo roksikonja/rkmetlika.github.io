@@ -1,0 +1,20 @@
+title:              Rokometni klub Metlika
+email:              rk.metlika@gmail.com
+description:        Spletna stran Rokometnega kluba Metlika
+author:             Rokometni klub Metlika
+baseurl:            ""
+url:                "https://roksikonja.github.io"
+
+# Social Profiles
+facebook_username:  Rokometni-klub-Metlika-1387233214849467
+
+# Build settings
+markdown:           kramdown
+paginate:           4
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+# theme: jekyll-theme-clean-blog
