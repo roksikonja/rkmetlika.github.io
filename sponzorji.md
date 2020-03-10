@@ -103,7 +103,7 @@ in lešnikov sodeluje vsa družina od spomladi do jeseni tako pri čiščenju na
 tudi pri pridelavi in stiskanju olj.
 	
 	
-### [Metronik d.o.o.](https://www.metronik.si)
+### [Metronik d.o.o.](https://metronik.si/)
 
 <img style="width: 30%" class="logo-sponsors" src="/assets/images/sponzorji/logo-metronik.png"/>
 
@@ -113,7 +113,7 @@ celovite rešitve za industrijo, infrastrukturne objekte, energetski management 
 tehnologije, kakovosti opreme in storitev ter zadovoljstva uporabnikov.
 	
 	
-### [VAREA - Amir Mehadžić s.p.](https://www.varea.si)
+### [VAREA - Amir Mehadžić s.p.](http://www.varea.si)
 
 <img style="width: 30%" class="logo-sponsors" src="/assets/images/sponzorji/logo-varea.png"/>
 
