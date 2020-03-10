@@ -75,7 +75,7 @@ ograje, montažo dvižnih garažnih vrat, dekorativne kamne in druge storitve za
 Vsestranska trgovina s široko ponudbo na področju pripomočkov za šolo, za pisarno, računalništva ...
 
 		
-### [Fizioterapija Mužar](https://fthmuzar.si)
+### [Fizioterapija Mužar](http://fthmuzar.si)
 
 <img style="width: 30%" class="logo-sponsors" src="/assets/images/sponzorji/logo-muzar.jpg"/>
 
@@ -113,7 +113,7 @@ celovite rešitve za industrijo, infrastrukturne objekte, energetski management 
 tehnologije, kakovosti opreme in storitev ter zadovoljstva uporabnikov.
 	
 	
-### [VAREA - Amir Mehadžić s.p.](http://www.varea.si)
+### [VAREA - Amir Mehadžić s.p.](http://varea.si)
 
 <img style="width: 30%" class="logo-sponsors" src="/assets/images/sponzorji/logo-varea.png"/>
 
