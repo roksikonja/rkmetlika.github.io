@@ -1,3 +1,5 @@
+Povezava do spletne strani: https://rkmetlika.github.io/
+
 ### Navodila za dodajanje objav
 
 1. V mapi ```_posts``` ustvarimo novo datoteko.
