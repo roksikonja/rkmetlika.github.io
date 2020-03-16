@@ -42,3 +42,15 @@ zamenjamo s točno lokacijo fotografije (ne smemo pozabiti na končnico bodisi .
             [tukaj](www.google.com)
             
     4. Več navodil najdete [tukaj](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+    
+### Navodila za dodajanje slik
+
+1. V odpremo mapo ```assets``` in nato ```images```.
+
+2. Presodimo, v katero mapo spada slika in jo odpremo.
+
+3. V zgornjem desnem kotu izberemo ```Upload files```.
+
+4. Naložimo slike preko pojavnega okna.
+
+5. Sledi ***Navodilo za dodajanje objav***.
