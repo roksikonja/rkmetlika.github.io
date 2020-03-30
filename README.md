@@ -8,7 +8,7 @@
 ### Video navodila
 
 - [Navodila za objavo nove novice](https://youtu.be/c8_C0Judmko)
-- [Navodila za objavo fotografij](https://youtu.be/c8_C0Judmko)
+- [Navodila za objavo fotografij](https://youtu.be/CuidYEcLHrU)
 - [Daljša in podrobnejša navodila za objavo novic in fotografij](https://youtu.be/c8_C0Judmko)
 
 ### Navodila za dodajanje objav
