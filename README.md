@@ -1,4 +1,15 @@
-Povezava do spletne strani: https://rkmetlika.github.io/
+## Naslov spletne strani 
+
+- [rk-metlika.si](rk-metlika.si)
+- [https://rkmetlika.github.io/ ](https://rkmetlika.github.io/ )
+
+## Navodila
+
+### Video navodila
+
+- [Navodila za objavo nove novice](https://youtu.be/c8_C0Judmko)
+- [Navodila za objavo fotografij](https://youtu.be/c8_C0Judmko)
+- [Daljša in podrobnejša navodila za objavo novic in fotografij](https://youtu.be/c8_C0Judmko)
 
 ### Navodila za dodajanje objav
 
@@ -13,11 +24,16 @@ prikazana na vrhu strani. Če nimamo posebne fotografije, potem te vrstice ne sp
 Sicer pa naložimo najprej fotografijo v eno izmed map v mapi ```/assets/images/```, nato pa ```/assets/images/default.jpg```
 zamenjamo s točno lokacijo fotografije (ne smemo pozabiti na končnico bodisi .jpg/.png).
 
-        ---
-        layout: post
-        title: "<naslov>"
-        background: '/assets/images/default.jpg'
-        ---
+```
+
+---
+layout: post
+title: "<naslov>"
+background: '/assets/images/default.jpg'
+---
+
+VSEBINA
+```
 
 3. Fotografijo vstavimo v samo besedilo tako, da v novo vrstico kopiramo:
     
