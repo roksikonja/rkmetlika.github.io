@@ -4,14 +4,14 @@ title: "14. občni zbor RK Metlika"
 background: '/assets/images/default.jpg'
 ---
 
-#Vabilo na občni zbor Rokometnega kluba Metlika
+# Vabilo na občni zbor Rokometnega kluba Metlika
 
 Na podlagi 18. in 20. člena Statuta RK Metlika predsednik Rokometnega kluba Metlika sklicuje:
 14. redni letni občni zbor Rokometnega kluba Metlika, ki bo potekal v ***soboto, 4. 7. 2020***, s pričetkom ob ***19.00*** v prostorih ***Mladinskega centra Metlika (nasproti Hotela Bela krajina).*** Vabimo vse člane kluba in njihove starše, da se občnega zbora udeležijo, saj bo predstavljeno delo kluba v preteklem letu in načrti za leto 2020.
 ***Hkrati z vabilom objavljam razpis za položaj predsednika RK Metlika.*** Vsak, ki se poteguje za katerega izmed razpisanih položajev, se lahko javi na 14. rednem občnem zboru RK Metlika. Vsak kandidat za predsednika naj predhodno pošlje elektronsko sporočilo na rk.metlika@gmail.com, v katerem na kratko pojasni razlog za kandidiranje. Na samem občnem zboru bo potekala predstavitev kandidata/-ov, prisotni bodo imeli možnost zastavitve vprašanj. Po razpravi sledijo volitve.
 Vsi prisotni bodo imeli možnost spoznati dosedanje vodstvo kluba in jim zastaviti kakšno vprašanje.
 
-##Predlog dnevnega reda:
+## Predlog dnevnega reda:
 1. Otvoritev in pozdravni nagovor
 2. Obravnava in sprejem poslovnika o delu OZ RK Metlika
 3. Potrditev dnevnega reda
