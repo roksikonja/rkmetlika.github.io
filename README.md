@@ -72,3 +72,10 @@ VSEBINA
 4. Naložimo slike preko pojavnega okna.
 
 5. Sledi ***Navodilo za dodajanje objav***.
+
+
+## Vzdrževanje
+
+    bundle exec jekyll serve
+    bundle update jekyll
+    bundle update github-pages
