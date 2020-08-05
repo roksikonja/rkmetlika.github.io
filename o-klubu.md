@@ -80,6 +80,9 @@ Upravnega odbora dne 20.9.2018
 	
 ### 15. občni zbor RK Metlika
 * [Zapisnik 15. občnega zbora](/assets/pdfs/zapisnik-oz-15-2019-04-13.pdf) RK Metlika z dne 13. 4. 2019
+
+### 16. občni zbor RK Metlika
+* [Zapisnik 16. občnega zbora](/assets/pdfs/zapisnik-oz-4-7-2020.pdf) RK Metlika z dne 4. 7. 2020
     
 ### Obrazci
 * [Obrazec za pridobitev kontaktov od članov kluba](/assets/pdfs/vpisnica-clani-2019.pdf)
