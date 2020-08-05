@@ -87,7 +87,7 @@ Upravnega odbora dne 20.9.2018
 ### Obrazci
 * [Obrazec za pridobitev kontaktov od članov kluba](/assets/pdfs/vpisnica-clani-2019.pdf)
 * [Prošnja za oprostitev vadnine](/assets/pdfs/prosnja-oprostitev.pdf)
-* [Vpisnica v Rokometni klub Metlika 2020/21](/assets/pdfs/vpisnica-2020.pdf)
+* [Vpisnica v Rokometni klub Metlika 2020/21](/assets/pdfs/vpisnica-jul2020.pdf)
     * Izpolnijo jo zakoniti zastopniki otrok, vključuje tudi osnovne informacije o delovanju kluba; vpisnica velja tudi 
     za vse ostale, ki bi se radi vpisali v klub.
 * [Obrazec za namenitev dela dohodnine](/assets/pdfs/dohodnina-rkmetlika.pdf)
