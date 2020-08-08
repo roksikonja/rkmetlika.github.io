@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<Izobraževanje za zapisnikarje in časomerilce za sezono 2020/21>"
+title: "Izobraževanje za zapisnikarje in časomerilce za sezono 2020/21"
 background: '/assets/images/default.jpg'
 ---
 
